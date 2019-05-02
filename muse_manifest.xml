@@ -1,0 +1,118 @@
+<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="triplepush.com" resolutions="1x" timestamp="1556795488814">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_a-master.css" crc="13621013" ref="index"/>
+    <file name="index.css" crc="308459671" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="smile_5_00000.jpg" crc="341769600" seo="true" mt="1546335250000"/>
+    <file name="smile_5_00099.jpg" crc="4048614656" seo="true" mt="1546335389000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="4216313831" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4177022356" ref="index"/>
+    <file name="jquery.watch.js" crc="460461809" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4110862005" ref="index"/>
+    <file name="require.js" crc="3951022091" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="dsc04255.jpg" crc="3980645483" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc04263.jpg" crc="3921382483" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="圖稿-7.svg" crc="394529487" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="圖稿 7_poster_.png" crc="249714703" ref="index"/>
+    <file name="圖稿-2.svg" crc="4106891660" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="圖稿 2_poster_.png" crc="441690128" ref="index"/>
+    <file name="未命名-1.png" crc="407180752" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="圖稿-6.svg" crc="379740694" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="圖稿 6_poster_.png" crc="147243277" ref="index"/>
+    <file name="u846-4.png" crc="412731802" ref="index"/>
+    <file name="u849-6.png" crc="64416452" ref="index"/>
+    <file name="u852-6.png" crc="3990532711" ref="index"/>
+    <file name="classroom1.jpg" crc="3907711851" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1008-4.png" crc="102514228" ref="index"/>
+    <file name="u1011-4.png" crc="3973028166" ref="index"/>
+    <file name="圖稿-9.svg" crc="4126409167" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="圖稿 9_poster_.png" crc="4180319715" ref="index"/>
+    <file name="u1024-4.png" crc="402714442" ref="index"/>
+    <file name="u1027-10.png" crc="257459348" ref="index"/>
+    <file name="u1030-4.png" crc="4186213851" ref="index"/>
+    <file name="u1033-12.png" crc="167186810" ref="index"/>
+    <file name="圖稿-10.svg" crc="4102882362" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="圖稿 10_poster_.png" crc="4050863604" ref="index"/>
+    <file name="圖稿-11.svg" crc="4275218271" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="圖稿 11_poster_.png" crc="4196834981" ref="index"/>
+    <file name="海報.jpg" crc="218797795" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u238-4.png" crc="54321276" ref="index"/>
+    <file name="u651-9.png" crc="4166458256" ref="index"/>
+    <file name="smile_5_00099拷貝.jpg" crc="3965677831" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1096-4.png" crc="4109454410" ref="index"/>
+    <file name="u1099-7.png" crc="3918157889" ref="index"/>
+    <file name="螢幕快照 2019-05-02 下午40832.jpg" crc="4293523884" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="圖稿-13.svg" crc="3806346670" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="圖稿 13_poster_.png" crc="4253280275" ref="index"/>
+    <file name="螢幕快照 2019-03-07 下午14859.jpg" crc="3908115245" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="圖稿-12.svg" crc="503323751" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="圖稿 12_poster_.png" crc="3980431850" ref="index"/>
+    <file name="u1541-4.png" crc="4203163505" ref="index"/>
+    <file name="u1492-4.png" crc="249256430" ref="index"/>
+    <file name="u1352-4.png" crc="249256430" ref="index"/>
+    <file name="u1493-9.png" crc="3981266213" ref="index"/>
+    <file name="u1353-9.png" crc="3981266213" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="u1531.png" crc="4284318456" ref="index"/>
+    <file name="u1531-r.png" crc="4284318456" ref="index"/>
+    <file name="u1556_states.png" crc="446419847" ref="index"/>
+    <file name="u1556_states-r.png" crc="446419847" ref="index"/>
+    <file name="螢幕快照 2019-05-01 下午62147-2.jpg" crc="3814216309" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1523-r.png" crc="4148983272" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4022557780" seo="true" mt="1556794825897" redirect="true"/>
+</manifest>
